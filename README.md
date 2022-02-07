@@ -2,7 +2,7 @@
 - 👀 I’m interested in front-end developent, Graphic design.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me via mail @ abrahamaddison98@gmail.com
 
 <!---
 Annad-Ison/Annad-Ison is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
