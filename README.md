@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Annad-Ison
 - 👀 I’m interested in front-end developent, Graphic design.
 - 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on a major site development.
 - 📫 Reach me via mail @ abrahamaddison98@gmail.com
 
 <!---
